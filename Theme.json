@@ -13,12 +13,12 @@
         "ambassador": "#99FF33",
         "host": "#66FFFF",
         "cohost": "#FFCC00",
-        "manager": "#000066",
+        "manager": "#FFFFFF",
         "bouncer": "#FF3300",
         "rdj": "#6699FF",
         "subscriber": "#3399FF",
-        "friend": "#3333FF",
-        "user": "#FFFFFF"
+        "friend": "#E6E6E6",
+        "user": "#CFCFCF"
     },
     "images": {
         "background": "https://code.radiant.dj/require/bg/15.png",
@@ -29,7 +29,7 @@
         "cohost": "http://i.imgur.com/GZjI0hK.png",
         "manager": "http://i.imgur.com/xVQglGD.png",
         "bouncer": "http://i.imgur.com/gkHVfWR.png",
-        "rdj": "http://support.d-imaging.sony.co.jp/guide/pmh/2000/us/img/ic_bluray_disc.gif",
-        "subscriber": "http://i.imgur.com/iJPyhmp.gif"
+        "rdj": "http://www.bluerayripper.com/uploads/images/support/news/click-button.jpg",
+        "subscriber": "http://i1130.photobucket.com/albums/m536/apricotbread/Pixels/YellowStar.gif"
     }
 }
