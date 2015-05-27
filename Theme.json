@@ -13,8 +13,8 @@
         "ambassador": "#99FF33",
         "host": "#66FFFF",
         "cohost": "#FFCC00",
-        "manager": "#FFFFFF",
-        "bouncer": "#FF3300",
+        "manager": "#FF3300",
+        "bouncer": "#FFFFFF",
         "rdj": "#6699FF",
         "subscriber": "#3399FF",
         "friend": "#E6E6E6",
@@ -27,8 +27,8 @@
         "ambassador": "http://i.imgur.com/Pl12fiB.png",
         "host": "http://i.imgur.com/KQsf8eA.png",
         "cohost": "http://i.imgur.com/GZjI0hK.png",
-        "manager": "http://i.imgur.com/xVQglGD.png",
-        "bouncer": "http://i.imgur.com/gkHVfWR.png",
+        "manager": "http://i.imgur.com/gkHVfWR.png",
+        "bouncer": "http://i.imgur.com/xVQglGD.png",
         "rdj": "http://www.bluerayripper.com/uploads/images/support/news/click-button.jpg",
         "subscriber": "http://i1130.photobucket.com/albums/m536/apricotbread/Pixels/YellowStar.gif"
     }
