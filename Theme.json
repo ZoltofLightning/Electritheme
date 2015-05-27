@@ -15,21 +15,21 @@
         "cohost": "#FFCC00",
         "manager": "#000066",
         "bouncer": "#FF3300",
-        "rdj": "#801A00",
+        "rdj": "#6699FF",
         "subscriber": "#3399FF",
         "friend": "#3333FF",
         "user": "#FFFFFF"
     },
     "images": {
         "background": "https://code.radiant.dj/require/bg/15.png",
-        "playback": "http://i.imgur.com/N2yBhJB.png",
+        "playback": "http://i.imgur.com/qhOvgQm.png",
         "admin": "http://i.imgur.com/dlf3EQy.png",
         "ambassador": "http://i.imgur.com/Pl12fiB.png",
         "host": "http://i.imgur.com/KQsf8eA.png",
         "cohost": "http://i.imgur.com/GZjI0hK.png",
         "manager": "http://i.imgur.com/xVQglGD.png",
         "bouncer": "http://i.imgur.com/gkHVfWR.png",
-        "rdj": "http://i.imgur.com/iJPyhmp.gif",
-        "subscriber": "http://i.imgur.com/HmrhlKo.gif"
+        "rdj": "http://support.d-imaging.sony.co.jp/guide/pmh/2000/us/img/ic_bluray_disc.gif",
+        "subscriber": "http://i.imgur.com/iJPyhmp.gif"
     }
 }
