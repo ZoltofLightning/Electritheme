@@ -33,7 +33,3 @@
         "subscriber": "http://i.imgur.com/Tibtg2B.gif"
     }
 }
-<?php 
-header('Access-Control-Allow-Origin: https://plug.dj'); 
-header('Content-Type: text/json'); 
-?>
