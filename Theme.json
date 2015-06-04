@@ -11,25 +11,25 @@
     "ccc": {
         "admin": "#FFFF00",
         "ambassador": "#99FF33",
-        "host": "#66FFFF",
+        "host": "#FFFFFF",
         "cohost": "#FFCC00",
         "manager": "#FF3300",
-        "bouncer": "#FFFFFF",
-        "rdj": "#6699FF",
-        "subscriber": "#3399FF",
-        "friend": "#E6E6E6",
-        "user": "#CFCFCF"
+        "bouncer": "#3366FF",
+        "rdj": "#727272",
+        "subscriber": "#B2B247",
+        "friend": "#5F5F5F",
+        "user": "#373737"
     },
     "images": {
         "background": "http://i.imgur.com/VNFKRVO.png",
         "playback": "http://i.imgur.com/Pp7eb6H.png",
         "admin": "http://i.imgur.com/dlf3EQy.png",
         "ambassador": "http://i.imgur.com/Pl12fiB.png",
-        "host": "http://i.imgur.com/KQsf8eA.png",
+        "host": "http://i.imgur.com/y7ChkFJ.gif",
         "cohost": "http://i.imgur.com/GZjI0hK.png",
         "manager": "http://i.imgur.com/gkHVfWR.png",
-        "bouncer": "http://i.imgur.com/xVQglGD.png",
-        "rdj": "http://i.imgur.com/luNWMUt.jpg",
+        "bouncer": "http://i.imgur.com/KQsf8eA.png",
+        "rdj": "http://i.imgur.com/xVQglGD.png",
         "subscriber": "http://i.imgur.com/Tibtg2B.gif"
     }
 }
